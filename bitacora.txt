@@ -1,0 +1,41 @@
+commit f0dc1e8a706f1c862626f0d76637f742bb2f49d7
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:38:09 2026 -0600
+
+    Vector de partidos politicos
+
+commit 153ac556aae0614ad8ece41ea13372521bcfa29f
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:36:20 2026 -0600
+
+    Ciclo do-while
+
+commit 5d865d450e7593dfe5767acd7dcda83486962d03
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:34:13 2026 -0600
+
+    Crear el objeto
+
+commit 110db3c4dffe9b2d22db0bc0f3b06b0b1f7d4f3d
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:32:41 2026 -0600
+
+    inicializacion de partidos con 0
+
+commit 3463028926658f36c9c8c3a739666d7d2172d058
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:30:59 2026 -0600
+
+    Declaracion de constanes y biblioteca
+
+commit 6ef4ab6559270a207a12439501c8872c6fbca209
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:27:49 2026 -0600
+
+    Subida de proyecto
+
+commit 9d54131146f7e5aab82611e397a36ff5fded2d01
+Author: JosuéMuy <josuemuy.m@gmail.com>
+Date:   Wed Apr 15 10:16:04 2026 -0600
+
+    primer commit
