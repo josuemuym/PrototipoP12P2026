@@ -15,6 +15,7 @@ using namespace std;
 #define MIN_CALIFICACION 0
 #define MAXIMA_LONGITUD_CADENA 100
 
+//clase del funcionamiento de objetos
 class partidosPoliticos
 {
     public:

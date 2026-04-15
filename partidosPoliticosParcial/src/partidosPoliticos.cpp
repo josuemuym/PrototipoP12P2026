@@ -22,6 +22,7 @@ void partidosPoliticos::llamarCiclo()
     char opcion;
     bool repetir = true;
 
+    // vector de los partidos politicos
     char partidos[NUMERO_PARTIDOS][MAXIMA_LONGITUD_CADENA] = {"Libre", "Vamos", "Creo", "UNE", "Unidos"};
 
     // ciclo for para parar hasta que el usuario considere
