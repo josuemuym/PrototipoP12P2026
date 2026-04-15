@@ -10,7 +10,9 @@ int main()
 {
     srand(getpid());
 
+    //creacion del objeto de partidos politicos.
     partidosPoliticos pp;
+    //llamar la funcion por medio del objeto
     pp.llamarCiclo();
 
     return 0;
