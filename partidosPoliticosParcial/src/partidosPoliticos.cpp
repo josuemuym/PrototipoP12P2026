@@ -7,6 +7,7 @@ using namespace std;
 
 partidosPoliticos::partidosPoliticos()
 {
+    //se inicializaron los partidos con un valor igual a "0"
     partido_1 = 0;
     partido_2 = 0;
     partido_3 = 0;
