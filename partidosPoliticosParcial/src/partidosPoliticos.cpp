@@ -24,6 +24,7 @@ void partidosPoliticos::llamarCiclo()
 
     char partidos[NUMERO_PARTIDOS][MAXIMA_LONGITUD_CADENA] = {"Libre", "Vamos", "Creo", "UNE", "Unidos"};
 
+    // ciclo for para parar hasta que el usuario considere
     do
     {
         system("cls");
@@ -139,6 +140,7 @@ float partidosPoliticos::imprimirMatriz(float matriz[NUMERO_PARTIDOS][NUMERO_RON
 
     promedioGeneral = totalGeneral / NUMERO_PARTIDOS;
 
+    //cout que van abajo de cada tabla
     cout << "Mayor numero de votos: " << setw(10) << partidoPromedioMayor
          << setw(10) << promedioMayor << endl;
     cout << "Menor numero de votos: " << setw(10) << partidoPromedioMenor
