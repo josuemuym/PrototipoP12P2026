@@ -8,6 +8,7 @@
 
 using namespace std;
 
+//definicion de constantes
 #define NUMERO_PARTIDOS 5
 #define NUMERO_RONDAS 2
 #define MAX_CALIFICACION 100000

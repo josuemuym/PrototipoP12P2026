@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "partidosPoliticos.h"
+#include "partidosPoliticos.h"       // se incluyo la biblioteca .h
 
 using namespace std;
 
